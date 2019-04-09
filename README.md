@@ -58,8 +58,8 @@
 - 动态规划
 - 贪心算法
 - 分支限界法
-# Android
 # 设计模式
+# Android
 ### Android 基础
 - Application生命周期
 - Android Activity生命周期
