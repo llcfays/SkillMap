@@ -9,7 +9,7 @@
 ---
 # Java
 ### Java基础
-- Java Object类方法
+- [Java Object类方法](https://llcfays.github.io//2019/04/09/Java/Java%E5%9F%BA%E7%A1%80/JavaObject%E7%B1%BB%E6%96%B9%E6%B3%95/)
 - HashMap原理，Hash冲突，并发集合，线程安全集合及实现原理
 - HashMap 和 HashTable 区别
 - HashCode 作用，如何重载hashCode方法
@@ -25,6 +25,7 @@
 - ThreadLocal的原理和用法
 - ThreadPool的用法和示例
 - wait()和sleep()的区别
+
 ### Java高级
 - Java虚拟机，Java运行，Java GC机制（可达性分析法，引用计数法）
 - Java对象的完整生命周期
@@ -40,6 +41,7 @@
 - 序列化和反序列化
 - 线程池的实现原理
 - 数据库基础知识：多表查询、索引、数据库事务
+
 # 数据结构
 - 栈和队列
 - 数组和链表，自定义一个动态数组
@@ -53,12 +55,15 @@
 - 字符串操作，字符串查找，KMP算法
 - 图的BFS、DFS、prim、Dijkstra算法（高阶技能）
 - 经典问题：海量数据的处理  （10亿个数中找出最大的10000个数 TOP K问题）
+
 # 算法
 - 分治算法
 - 动态规划
 - 贪心算法
 - 分支限界法
+
 # 设计模式
+
 # Android
 ### Android 基础
 - Application生命周期
@@ -85,6 +90,7 @@
 - ADB常用命令
 - Asset目录与res目录的区别
 - Android SQLite的使用入门
+
 ### Android 高级
 - Android 基础难点
     - AIDL
@@ -118,11 +124,14 @@
 - 混合开发
 - Android WebView
 - Gradle、自动化构建、持续集成相关
+
 ### Android 系统
 - Android 编译过程
 - APP 启动加载过程
 - Android 虚拟机 Android APP 运行的沙箱原则
+
 ### Android 架构
+
 ### Android 优化
 - Android 性能调优
     + 性能瓶颈点
@@ -171,10 +180,15 @@
 - 数据库优化
 - 服务端优化
 - 其他优化
+
 # 其他
+
 ### 服务器开发相关
+
 ### 前端开发相关
+
 ### 开发调试各种工具
+
 -  调试工具
     - 网络调试
         + Charles
